@@ -1,5 +1,5 @@
 num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num2 = 5
 
 print("\nArithmetic Operations:")
 
