@@ -1,4 +1,4 @@
-num1 = 0
+num1 = 5
 num2 = 4
 
 print("\nArithmetic Operations:")
